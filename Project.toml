@@ -1,0 +1,7 @@
+name = "TeXManager"
+uuid = "40e45fef-5aeb-40b3-9e80-213a96aa2276"
+authors = ["Kai Partmann"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
